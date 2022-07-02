@@ -35,7 +35,7 @@ html::-webkit-scrollbar-thumb{
 }
 
 body{
-   background: url(../images/background-img2.jpg) no-repeat;
+   background: url(../images/background-img2-min.jpg) no-repeat;
    background-size: cover;
    background-position: center;
    background-attachment: fixed;
