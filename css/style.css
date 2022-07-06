@@ -247,9 +247,9 @@ section{
 }
 
 .team .box-container{
-   display: flex;
-   align-items: center;
-   justify-content: space-between;
+   display: grid;
+   grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
+   gap:1.5rem;
    
    
 }
